@@ -1,2 +1,0 @@
-# cei
-Consejería Emocional IDER
